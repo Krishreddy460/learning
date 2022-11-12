@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LearningApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Krishna vamsi reddy Kondareddy gari");
+		System.out.println("Krishna vamsi reddy");
+
 		SpringApplication.run(LearningApplication.class, args);
 	}
 
